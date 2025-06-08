@@ -5,8 +5,13 @@ Aplikasi ini menggunakan model YOLOv11 yang telah dilatih khusus untuk mendeteks
 ---
 
 ## Cara Menjalankan Aplikasi
-
 ### 1. Buat Virtual Environment
+
+download model pada link https://drive.google.com/file/d/1ZIzU9H-dbyaHdyILA2XoWpxxNxEZ1qOw/view
+
+---
+
+### 2. Buat Virtual Environment
 
 ```bash
 python -m venv venv
@@ -14,13 +19,13 @@ venv\Scripts\activate      # Untuk Windows
 source venv/bin/activate   # Untuk macOS/Linux
 ````
 
-### 2. Install Dependensi
+### 3. Install Dependensi
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Jalankan Aplikasi Streamlit
+### 4. Jalankan Aplikasi Streamlit
 
 ```bash
 streamlit run app.py
