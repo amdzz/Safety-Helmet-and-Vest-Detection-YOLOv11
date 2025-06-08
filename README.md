@@ -9,7 +9,7 @@ Berikut adalah bagian pertama dari laporan dalam format `README.md` berdasarkan 
 
 ---
 
-## Dataset
+## Pendahuluan
 
 Proyek ini dibuat sebagai bentuk pemenuhan tugas Ujian Akhir Semester (UAS) mata kuliah **Computer Vision**, yang diampu oleh **Arie Vatresia, S.T., M.T.I., Ph.D.**. Tujuan dari tugas ini adalah untuk merancang sistem **pengenalan visual berbasis komputer** yang mampu mendeteksi atribut keselamatan berupa **helm dan rompi keselamatan** yang digunakan oleh para pekerja proyek konstruksi.
 
@@ -35,7 +35,7 @@ Terima kasih! Dengan informasi tambahan ini, berikut adalah versi lengkap dan te
 
 ---
 
-## Data Understanding
+## Dataset
 
 Untuk menyelesaikan proyek ini, kami menggunakan dataset **Safety Helmet and Reflective Jacket** yang tersedia secara publik di Kaggle. Dataset ini dibuat oleh **Nirav B Naik** dan dirancang khusus untuk pelatihan model deteksi objek dalam konteks **keselamatan kerja**.
 
