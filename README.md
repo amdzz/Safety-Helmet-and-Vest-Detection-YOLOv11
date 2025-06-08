@@ -4,9 +4,6 @@ Kelompok 5:
 - ZONI ARYANTONI ALBAB (G1A022043)  
 - YEBI DEPRIANSYAH (G1A022063)  
 - AHMAD ZUL ZHAFRAN (G1A022088)
-
-Berikut adalah bagian pertama dari laporan dalam format `README.md` berdasarkan struktur CRISP-DM dan skenario tugas Anda:
-
 ---
 
 ## Pendahuluan
